@@ -1,3 +1,8 @@
+"""
+Video tutorial link: https://www.youtube.com/watch?v=uC9kIe21qTg
+
+"""
+
 from collections import defaultdict, deque
 
 def checkBound(N, index):

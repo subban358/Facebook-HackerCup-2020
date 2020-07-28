@@ -1,3 +1,7 @@
+""" 
+video explanation link: https://www.youtube.com/watch?v=WXmoYpjoXyA&feature=youtu.be
+"""
+
 from collections import Counter
 
 def isValid(count):
